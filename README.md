@@ -55,7 +55,7 @@ console.log(...): Prints the last phone number to the console.
 
 Task: H
 
-peopleNames: A nested array where each inner array represents a person's first and last name.
+peopleNames: A array where each inner array represents a person's first and last name.
 for loop: Iterates through each element (each person's name).
 peopleNames[i][1]: Accesses the second element of each inner array (the last name).
 console.log(...): Prints each last name to the console.
