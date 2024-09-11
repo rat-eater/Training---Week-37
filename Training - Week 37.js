@@ -54,8 +54,9 @@ function add(a, b) {
     return a + b;
 }
 
-console.log("3 + 6 = " + add(3, 6));
-console.log("5673 + 234 = " + add(5673, 234));
+console.log("10 + 15 = " + add(10, 15));    
+console.log("1000 + 500 = " + add(1000, 500)); 
+
 
 /*
     Task: E
